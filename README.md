@@ -1,4 +1,4 @@
-# comic-sans-chrome
+# comic-sans-chrome [![Chrome Web Store](https://img.shields.io/chrome-web-store/stars/ekkomanikbbhmibebhebdgeoeaddjgoc.svg)](https://chrome.google.com/webstore/detail/comic-sans-chrome/ekkomanikbbhmibebhebdgeoeaddjgoc/related)
 Clearly a superior browsing experience
 
 ## Install
