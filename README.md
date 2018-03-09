@@ -9,18 +9,13 @@ Clearly a superior browsing experience
 **A**: Because there's not enough Comic Sans on the internet
 
 <br>
-
-**Q**: Why should I download this?  
-**A**: Because it [cost me $5](https://twitter.com/lukas_kollmer/status/858692082487242753)
-
-<br>
 <br>
 
 **Example 1**
-![](https://files.lukas.vip/embed/comic-sans-chrome/image1.png)
+![](https://files.lukaskollmer.me/embed/comic-sans-chrome/image1.png)
 
 **Example 2**
-![](https://files.lukas.vip/embed/comic-sans-chrome/image2.png)
+![](https://files.lukaskollmer.me/embed/comic-sans-chrome/image2.png)
 
 **Example 3**
-![](https://files.lukas.vip/embed/comic-sans-chrome/image3.png)
+![](https://files.lukaskollmer.me/embed/comic-sans-chrome/image3.png)
