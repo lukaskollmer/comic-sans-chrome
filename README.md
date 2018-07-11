@@ -12,10 +12,10 @@ Clearly a superior browsing experience
 <br>
 
 **Example 1**
-![](https://files.lukaskollmer.me/embed/comic-sans-chrome/image1.png)
+![](https://s3.amazonaws.com/lukaskollmer/embed/comic-sans-chrome/image1.png)
 
 **Example 2**
-![](https://files.lukaskollmer.me/embed/comic-sans-chrome/image2.png)
+![](https://s3.amazonaws.com/lukaskollmer/embed/comic-sans-chrome/image2.png)
 
 **Example 3**
-![](https://files.lukaskollmer.me/embed/comic-sans-chrome/image3.png)
+![](https://s3.amazonaws.com/lukaskollmer/embed/comic-sans-chrome/image3.png)
